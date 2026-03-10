@@ -5,16 +5,33 @@
 
 ![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Learning-green?style=for-the-badge)
-![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Database](https://img.shields.io/badge/Focus-Database_Engineering-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Testing](https://img.shields.io/badge/Quality-SQA-red?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
 ---
 
 ### 📖 Deskripsi & Tujuan
-Repositori ini adalah pusat dokumentasi belajar Backend Go saya. Selain kode latihan, saya menyisipkan catatan implementasi nyata untuk kebutuhan portofolio.
+Repositori ini adalah pusat dokumentasi belajar Backend Go saya. Fokus utama saya adalah membangun sistem yang *robust* dengan penguasaan mendalam pada **Database Management** dan **Quality Assurance**.
 
-🔗 **[Lihat Website Portofolio Saya](https://link-website-kamu.com)** (Update link di sini)
+🔗 **[🌐 Lihat Website Portofolio Saya](https://link-website-kamu.com)**
+
+---
+
+### 🗄️ Database Engineering & Administration
+*Fokus pada pengolahan data, perancangan arsitektur, dan optimasi query.*
+* **📐 ERD Design:** Dokumentasi perancangan skema database menggunakan standar normalisasi.
+* **🛡️ Database Administrator (DBA):** Manajemen user, backup-recovery, dan tuning performa.
+* **💾 Teknologi:** `PostgreSQL`, `MySQL`, `Redis (Caching)`, & `MongoDB`.
+
+---
+
+### 🧪 Software Quality Assurance (SQA)
+*Memastikan setiap baris kode Go yang saya tulis memenuhi standar kualitas.*
+* **⚙️ Unit Testing:** Implementasi `testing` package bawaan Go.
+* **🔗 Integration Testing:** Simulasi alur kerja antar service dan database.
+* **🤖 Automation:** Penulisan script testing untuk menjamin reliabilitas sistem.
 
 ---
 
@@ -22,24 +39,38 @@ Repositori ini adalah pusat dokumentasi belajar Backend Go saya. Selain kode lat
 | Modul | Topik | Status | Kode Sumber |
 | :--- | :--- | :---: | :--- |
 | 01 | Go-Lang Dasar | ✅ | [Buka](./01-dasar) |
-| 02 | Go-Lang Modules | ✅ | [Buka](./02-modules) |
-| 03 | Go-Lang Unit Test | ⏳ | [Buka](./03-unit-test) |
-| 04 | Git & GitHub Mastery | ✅ | [Notes](./git-notes) |
+| 02 | Go-Lang Database (SQL) | ⏳ | [Buka](./02-db-sql) |
+| 03 | **Advanced ERD & DBA** | ⏳ | [Notes](./db-admin) |
+| 04 | **SQA & Automation Test** | 📅 | *Upcoming* |
 
 ---
 
-### 📂 Portofolio & Repositori Lainnya
-Saya juga aktif mendokumentasikan pembelajaran di bidang lain:
+### 📂 Ekosistem Pembelajaran & Repositori Lain
+*Klik pada ikon atau teks untuk mengunjungi repositori terkait.*
 
-* **Software Development:**
-    * 🐘 [PHP & Laravel](link) | 🐍 [Python & Data Science](link) | ☕ [Java](link)
-    * 🏝️ [Kotlin](link) | 💙 [Flutter](link)
-* **Infrastructure & Support:**
-    * 🐧 [Linux Learning](link) | 🛠️ [IT Support Documentation](link)
-    * ♾️ [DevOps Journey](link) | 🐙 [Git & GitHub Flow](link)
-* **Management & Academic:**
-    * 📊 [Project Management](link)
-    * 🎓 [Academic Repository (Education)](link) - *Kumpulan project tugas kuliah & akademik.*
+#### 💻 Software Engineering
+* 🐘 **PHP & Laravel:** [View Repo](link)
+* 🐍 **Python & Data Science:** [View Repo](link)
+* ☕ **Java Ecosystem:** [View Repo](link)
+* 🏝️ **Kotlin Development:** [View Repo](link)
+* 💙 **Flutter Mobile:** [View Repo](link)
+* 🧪 **SQA & Testing Hub:** [View Repo](link)
+
+#### ⚙️ Infrastructure & Systems
+* 🐧 **Linux Learning Path:** [View Repo](link)
+* 🛠️ **IT Support Specialist:** [View Repo](link)
+* ♾️ **DevOps & CI/CD:** [View Repo](link)
+* 🐙 **Git & GitHub Mastery:** [View Repo](link)
+
+#### 📊 Management & Architecture
+* 📐 **RPL & Design Patterns:** [View Repo](link)
+* 📈 **Software Project Management:** [View Repo](link)
+* 📝 **Technical Documentation:** [View Repo](link)
+
+#### 🎓 Academic & Growth
+* 🏫 **Academic Repository:** [View Repo](link) *(All College Projects)*
+* 🚀 **Career & Development:** [View Repo](link) *(Resume & Soft Skills)*
+* 🌎 **Language Learning:** [View Repo](link) *(English & Others)*
 
 ---
 
@@ -51,4 +82,4 @@ Saya juga aktif mendokumentasikan pembelajaran di bidang lain:
 </p>
 
 ---
-<p align="center">Dibuat dengan ❤️ oleh Okta Gabriel</p>
+<p align="center">Dibuat dengan ❤️ oleh <b>Okta Gabriel</b></p>
